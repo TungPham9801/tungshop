@@ -1,0 +1,8 @@
+C:\Users\phamt\OneDrive\Máy tính\DTDM\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll.config
+C:\Users\phamt\OneDrive\Máy tính\DTDM\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\phamt\OneDrive\Máy tính\DTDM\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\phamt\OneDrive\Máy tính\DTDM\ShopQuanAo\ShopQuanAo\obj\Release\ShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\phamt\OneDrive\Máy tính\DTDM\ShopQuanAo\ShopQuanAo\obj\Release\ShopQuanAo.csproj.CopyComplete
+C:\Users\phamt\OneDrive\Máy tính\DTDM\ShopQuanAo\ShopQuanAo\obj\Release\ShopQuanAo.dll
+C:\Users\phamt\OneDrive\Máy tính\DTDM\ShopQuanAo\ShopQuanAo\obj\Release\ShopQuanAo.pdb
+C:\Users\phamt\OneDrive\Máy tính\DTDM\ShopQuanAo\ShopQuanAo\obj\Release\ShopQuanAo.csprojAssemblyReference.cache
